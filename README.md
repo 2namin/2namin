@@ -7,3 +7,7 @@
 - 당구
 - 술
 - Money
+
+## Tech Stack
+- Python
+- C++
